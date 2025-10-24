@@ -8,6 +8,8 @@
 
 ## 👨‍💻 About Me
 
+<img  src="./card.gif" height="290px" align="right" />
+
 - 💼 **DevOps Engineer — Cloud & Automation Specialist**  
 - 📧 br.kramjit@gmail.com | 🌐 [karamjitbrar.com](https://karamjitbrar.com) | 🔗 [LinkedIn](https://linkedin.com/in/karamjitbrar)  
 - 🌱 Learning & working on **cloud automation, CI/CD, and hybrid cloud monitoring**  
