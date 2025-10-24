@@ -78,6 +78,8 @@
 
 ## 📊 GitHub Stats
 
+[![Karam's GitHub stats](https://github-readme-stats.vercel.app/api?username=brar-karamjit)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karamjitbrar&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karamjitbrar" />
