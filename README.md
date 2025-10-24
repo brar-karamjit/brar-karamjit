@@ -25,9 +25,6 @@ Git, Chocolatey, Cloud Custodian, API Gateway
 
 ## 🎓 Certifications
 
-- **AWS Certified Solutions Architect – Associate**  
-- **AWS Certified Developer – Associate**  
-- **Certified Kubernetes Administrator (CKA)**
 - ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-orange)
 - ![AWS Developer](https://img.shields.io/badge/AWS-Developer-orange)
 - ![CKA](https://img.shields.io/badge/CKA-Certified-blue)
