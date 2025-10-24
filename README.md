@@ -65,22 +65,13 @@
 
 ---
 
-## ❤️ Let's Get Connected
+## ❤️ Let's Connect
 
 <p>
-<a href="https://github.com/karamjitbrar" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://twitter.com/karamjitbrar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/brar-karamjit" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/karamjitbrar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://karamjitbrar.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-[![Karam's GitHub stats](https://github-readme-stats.vercel.app/api?username=brar-karamjit)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karamjitbrar&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karamjitbrar" />
-</div>
