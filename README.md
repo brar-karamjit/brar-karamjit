@@ -8,7 +8,6 @@
 
 ## 👨‍💻 About Me
 
-<img  src="./card.gif" height="290px" align="right" />
 
 - 💼 **DevOps Engineer — Cloud & Automation Specialist**  
 - 🌱 Learning & working on **cloud automation, CI/CD, and hybrid cloud monitoring**  
