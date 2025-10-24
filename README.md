@@ -43,8 +43,8 @@ Git, Chocolatey, Cloud Custodian, API Gateway
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karamjitbrar/)  
-- Portfolio: [Your Portfolio](https://karamjitbrar.com)  
+- LinkedIn: [karamjitbrar](https://www.linkedin.com/in/karamjitbrar/)  
+- Portfolio: [karamjitbrar.com](https://karamjitbrar.com)  
 
 ---
 
